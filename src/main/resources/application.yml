@@ -21,4 +21,4 @@ quarkus:
     dev-ui:
       cors:
         enabled: false
-      hosts: 8080-ddjonline-brownbagbytes-4trkc8m62lu.ws-us118.gitpod.io # update this to match your GitPod session host name
+      hosts: 8080-ddjonline-brownbagbytes-REPLACEWITHYOURINSTANCEID.ws-us118.gitpod.io # update this to match your GitPod session host name
