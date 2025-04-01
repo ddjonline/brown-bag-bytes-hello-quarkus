@@ -36,7 +36,7 @@ public class ApplicationScopeService {
 
 This second service should be created on every new request and the random number value should be new every time the `getNumber` method is called.
 
-In the `src\main\java\org\bytes\bag\brown\quarkus\hello` directory create a new file called `ApplicationScopeService.java` with the following contents:
+In the `src\main\java\org\bytes\bag\brown\quarkus\hello` directory create a new file called `RequestScopeService.java` with the following contents:
 
 ```java
 package org.bytes.bag.brown.quarkus.hello;
